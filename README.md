@@ -7,4 +7,4 @@ Run:
 python3 scrape_uniqueURLs.py -d "https://www.example.org/"
 
 
-!(b548822a45b0cfe238e96a1dd1d4e85912e7c02b.gif)
+![alt text](b548822a45b0cfe238e96a1dd1d4e85912e7c02b.gif)
