@@ -143,7 +143,7 @@ def main(argv):
     text = 'A tool to collect all unique URLs from a given domain!'
     parser = argparse.ArgumentParser(description=text)
     parser.add_argument('--domain', '-d', required=True,
-                        help='Specify a domain. i.e. "https://www.octoberbooks.org"')
+                        help='Specify a domain. i.e. "https://www.example.org"')
     
     parser.parse_args()
     args = parser.parse_args()
